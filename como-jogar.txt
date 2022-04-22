@@ -1,0 +1,5 @@
+Jogador 1- setas para cima e para baixo
+
+Jogador 2- setas W e S
+
+para colocar no modo 2 jogadores é só ir np arquivo sketch.js, colocar as linhas 114 a 116 como comentarios( colocar um /* no começo da linha 114 e um */ no final da linha 116) e tirar as linhas 118 a 124 do modo comentario ( apagar o /* e o */)
